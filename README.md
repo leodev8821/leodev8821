@@ -18,7 +18,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat&logo=confluence&logoColor=white) ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white) ![Google Meet](https://img.shields.io/badge/-Google_Meet-00897B?style=flat&logo=google-meet&logoColor=white) ![Zoom](https://img.shields.io/badge/-Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white) ![Skype](https://img.shields.io/badge/-Skype-00AFF0?style=flat&logo=skype&logoColor=white)
 
 ## 🛠️  Herramientas de Desarrollo
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint&logoColor=white) ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint&logoColor=white) ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Linux Terminal](https://img.shields.io/badge/-Linux_Terminal-4D4D4D?style=flat&logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/-Windows_Terminal-4D4D4D?style=flat&logo=windows-terminal&logoColor=white)
 
 ## 📥 APIs y Utilidades
 ![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat&logo=axios&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white) ![Bcrypt](https://img.shields.io/badge/-Bcrypt-004D40?style=flat&logo=bcrypt&logoColor=white) ![Winston](https://img.shields.io/badge/-Winston-2C3E50?style=flat&logo=winston&logoColor=white)
@@ -26,7 +26,10 @@
 
 ## 📊 Lenguajes más utilizados
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leodev8821&custom_title=Lenguajes%20Favoritos&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leodev8821&custom_title=Lenguajes%20Favoritos&layout=compact&langs_count=4&theme=dark&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📑 Proyectos
+[Datos Históricos y Previsión meteorológicos de la AEMET - España](https://github.com/leodev8821/Spain_AEMET_Data_Collection)
 
 ## 📫 Cómo contactarme
 
